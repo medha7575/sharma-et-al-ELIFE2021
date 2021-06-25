@@ -1,1 +1,4 @@
-This code reconstitutes Arp 2/3 actin cap in silico. It has 6 different files dividing the different functionalities in smaller sections, but to run the simulation only two files needs to be run: 1. the initiation file: SetUp_Initiate, which calls all the initiation functionalities to set up the simulation enviornmenet and 2. Simulate_CombinedModel, which runs the simulation and calls the respective functionalities to calculate forces and update the actin nodes.
+This code reconstitutes Arp 2/3 actin cap in silico.
+It has 6 different files dividing the different functionalities in smaller sections, but to run the simulation only two files needs to be run:
+1. the initiation file: SetUp_Initiate, which calls all the initiation functionalities to set up the simulation enviornmenet and
+2. Simulate_CombinedModel: which runs the simulation and calls the respective functionalities to calculate forces and update the actin nodes.
